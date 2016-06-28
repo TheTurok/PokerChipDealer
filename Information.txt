@@ -1,0 +1,21 @@
+*Introduction*
+
+This is the general rough view:
+https://docs.google.com/document/d/1AimhHQOarWw3O4AK4bA43zE_t3JsGkcRs_ZKNb5ShaY/edit?usp=sharing
+
+go more in depth later. And drawings too. Also I think we should watcha a couple vids before doing github
+or else there might be problems with merging. I think it's always better to code and not use android
+studio's gui to amke stuff if i recall.
+
+___________________________________________________________________________
+
+Decription:
+Pretty much the people already have cards and we just need to manage the chips for them. This application is for people without chips but have cards. 
+
+Money:
+We can make this a paid app by locking some menu options out. such as only allow four players unless they
+pay for the application. or They can't play tournament game without buying the app.
+
+___________________________________________________________________________
+
+Timothy C. and Joseph A.
