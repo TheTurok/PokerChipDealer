@@ -4,6 +4,10 @@
     <string name="app_name">PokerChipDealer</string>
     <string name="title_activity_main_game">MainGame</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
     <string name="tv1">I Love You!</string>
+
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+
 </resources>
